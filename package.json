@@ -1,0 +1,28 @@
+{
+  "name": "ap-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Behnam Rajabifard <b.rajabifard@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-boost": "^0.1.12",
+    "graphql": "^0.13.2",
+    "isomorphic-unfetch": "^2.1.1",
+    "next": "^6.1.1",
+    "next-apollo": "^2.0.0",
+    "react": "^16.4.2",
+    "react-apollo": "^2.1.9",
+    "react-dom": "^16.4.2",
+    "styled-components": "^3.4.1"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "all"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}

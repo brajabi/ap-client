@@ -1,0 +1,19 @@
+# General
+node_modules
+package-lock.json
+*.log
+.vscode
+.DS_Store
+.env
+.env.prod
+.next
+
+# Now
+now-secrets.json
+
+# Web
+web/.next
+web/out
+
+# Builds
+build-*

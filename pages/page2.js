@@ -9,8 +9,6 @@ const LinkList = () => (
       {
         allLinks {
           id
-          description
-          url
         }
       }
     `}

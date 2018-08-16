@@ -9,6 +9,8 @@ const LinkList = () => (
       {
         allLinks {
           id
+          message
+          createdAt
         }
       }
     `}
